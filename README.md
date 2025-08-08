@@ -100,28 +100,28 @@ A complete Java-based solution for hotel room management, booking, and payment p
 - Run the (***LoginSystem.java***) by intelliJ IDEA.
 
 ### System Architecture
-  ![System Architecture](Screenshot/Diagram.png)  
+  ![System Architecture](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/Diagram.png)  
 ## System Overview
 ### Login Page
 ![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/Login.png)  
 
 ### Dashboard
-![System Overview](Screenshot/Dashboard.png) 
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/Dashboard.png) 
 
 ### MainMenu
-![System Overview](Screenshot/MainMenu.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/MainMenu.png)
 
 ### View All Available Room
-![System Overview](Screenshot/AllRoom.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/AllRoom.png)
 
 ### BookingRoom
-![System Overview](Screenshot/BookingRoom.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/BookingRoom.png)
 ### ProcessPayment
-![System Overview](Screenshot/processPayment.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/processPayment.png)
 ### View All Booking
-![System Overview](Screenshot/AllBooking.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/AllBooking.png)
 ### Cancel Reservation 
-![System Overview](Screenshot/cancel.png)
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot//cancel.png)
 
 
 
