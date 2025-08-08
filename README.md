@@ -103,7 +103,7 @@ A complete Java-based solution for hotel room management, booking, and payment p
   ![System Architecture](Screenshot/Diagram.png)  
 ## System Overview
 ### Login Page
-![System Overview](Screenshot/Login.png)  
+![System Overview](https://github.com/Habib2024-prog/codealpha_hotel_Reservation_System/blob/main/HRS/Screenshot/Login.png)  
 
 ### Dashboard
 ![System Overview](Screenshot/Dashboard.png) 
